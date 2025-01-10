@@ -1,7 +1,21 @@
+*
+{
+    
+}
 body{
     background-color: green;
     font-family: 'Courier New', Courier, monospace;
     margin: auto;
+}
+.wrapper{
+    margin: 0 auto;
+    padding: 20px;
+}
+.wrapper ul{
+    margin: 20px;
+}
+.wrapper li{
+    padding: 20px;
 }
 h1{
     text-align: center;
