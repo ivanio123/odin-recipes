@@ -1,0 +1,31 @@
+body{
+    background-color: green;
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+ul{
+    
+    font-size: 24px;
+    list-style-type: armenian;
+}
+ol{
+    list-style-type: georgian;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: aliceblue;
+    animation: bounce;
+}  
+img {
+    margin: auto;
+    display: block;
+}
+img:hover{
+    width: 200%;
+}
